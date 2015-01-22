@@ -1,0 +1,14 @@
+{
+    "name": "openitstudio/php-mock",
+    "description": "Simple mock server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fedor B Gorsky",
+            "email": "fedor@support-pc.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
