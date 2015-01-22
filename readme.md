@@ -1,7 +1,7 @@
-<?php
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+#SIMPLE MOCK SERVER
+## usage
+* Fill config.php like
+* Fill responses.php with yuor stuff
+* Run server like in index.php
+
 
